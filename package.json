@@ -4,7 +4,7 @@
   "description": "How do I use CouchDB as my database adapter?",
   "keywords": [],
   "dependencies": {
-    "sails": "~0.10.0-rc7",
+    "sails": "~1.0.0",
     "sails-disk": "~0.10.0",
     "rc": "~0.3.3",
     "include-all": "~0.1.3",
